@@ -26,15 +26,6 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		///
 
 
-		//aiueo
-
-		//テスト
-
-		//aaaaa
-
-
-		//あああ
-
 		///
 		/// ↑更新処理ここまで
 		///
