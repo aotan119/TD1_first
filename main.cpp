@@ -31,6 +31,8 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 
 		//あああ
 
+		///あおい
+
 		///
 		/// ↑更新処理ここまで
 		///
