@@ -25,13 +25,19 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		/// ↓更新処理ここから
 		///
 
+
 		//aiueo
+
+		//テスト
+
+		//aaaaa
+
+
+		//あああ
 
 		///
 		/// ↑更新処理ここまで
 		///
-
-
 
 		///
 		/// ↓描画処理ここから
