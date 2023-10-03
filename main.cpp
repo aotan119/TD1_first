@@ -33,6 +33,8 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 
 		///あおい
 
+		//oohara
+
 		///
 		/// ↑更新処理ここまで
 		///
