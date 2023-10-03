@@ -27,6 +27,8 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 
 		//ko-do
 
+		//test
+
 		///
 		/// ↑更新処理ここまで
 		///
